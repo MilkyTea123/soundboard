@@ -2,8 +2,7 @@ import React from 'react';
 import  { createRoot }  from 'react-dom/client';
 // import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App_';
-
+import App from './App';
 
 /**
  * Index handles configuration as well as being the main injection point for the application

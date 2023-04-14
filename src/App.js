@@ -1,22 +1,17 @@
 // import logo from './logo.svg';
 import * as React from 'react';
+import MainPage from '.src/components/MainPage/MainPage.js'
 import './App.css';
 
 const App = () => {
   return (
     <div className="App">
-      <header className="App-header">
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+      <header className="header">
+
       </header>
       <body>
         <h1>Hello World</h1>
+        <MainPage />
       </body>
     </div>
   );
