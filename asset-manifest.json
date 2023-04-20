@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/soundboard/static/css/main.1901c89c.css",
+    "main.css": "/soundboard/static/css/main.c62b8506.css",
     "main.js": "/soundboard/static/js/main.3d7ab6d8.js",
     "static/js/787.d032d912.chunk.js": "/soundboard/static/js/787.d032d912.chunk.js",
+    "static/media/joebiden.jpeg": "/soundboard/static/media/joebiden.d9caeae2657d83e1776b.jpeg",
     "static/media/among-us.mp3": "/soundboard/static/media/among-us.0d68b1d47db16585d6a1.mp3",
     "index.html": "/soundboard/index.html",
-    "main.1901c89c.css.map": "/soundboard/static/css/main.1901c89c.css.map",
+    "main.c62b8506.css.map": "/soundboard/static/css/main.c62b8506.css.map",
     "main.3d7ab6d8.js.map": "/soundboard/static/js/main.3d7ab6d8.js.map",
     "787.d032d912.chunk.js.map": "/soundboard/static/js/787.d032d912.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1901c89c.css",
+    "static/css/main.c62b8506.css",
     "static/js/main.3d7ab6d8.js"
   ]
 }
